@@ -6,6 +6,10 @@
 
 * ex.: stack-structure.ipynb contem alguns scripts separado em literal blocos sobre as questões.
 
+# atividades para fazer e as completas:
+ - stack-struture.ipynb ✅
+ - chain-list.ipynb     ❌
+
 # posso pegar esses scripts?
   Pode, não vejo problema nenhum em usar esse codigos. <br>
   
