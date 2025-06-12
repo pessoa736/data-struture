@@ -1,4 +1,6 @@
-Obs: caso queira roda os codigos no vscode, é so instala o pack de extenção : "jupter", id: ms-toolsai.jupyter
+## Obs: ao cria um codespace vc pode entra nele no modo jupter < preview >
+![image](https://github.com/user-attachments/assets/146f20ad-28a6-4d63-b97e-e060dfbdbb83)
+
 # O que vc vai encontrar nesse repositorio??
   Basicamente todas as repostas das atividades e questões que resolvi (e estou resolvendo) na materia de estrutura de dados no curso tecnico que to fazendo. Vc não vai encontrar aqui os codigos executaveis, só uns arquivos com a visualizações de codigo e seus logs de execução separados por aula (ou atividade).
 
