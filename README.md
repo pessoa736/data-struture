@@ -1,7 +1,7 @@
 ## Obs: ao cria um codespace vc pode entra nele no modo jupter < preview >
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/146f20ad-28a6-4d63-b97e-e060dfbdbb83" />
+  <img src="https://github.com/user-attachments/assets/fe041c11-7fe7-4971-b122-ae0ce67433d4" />
 </div>
 
 # O que vc vai encontrar nesse repositorio??
