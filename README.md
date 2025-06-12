@@ -1,6 +1,6 @@
 ## Obs: ao cria um codespace vc pode entra nele no modo jupter < preview >
 
-<div style="justify-content: center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/146f20ad-28a6-4d63-b97e-e060dfbdbb83" />
 </div>
 
